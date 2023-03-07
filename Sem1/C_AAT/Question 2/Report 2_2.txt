@@ -1,0 +1,9 @@
+﻿Patient Name: Sheela Mathur
+Age: 25 years old
+Gender: Female 
+
+
+Menstrual Conditions:
+1. Pregnancy- Negative
+2. Endometriosis- Positive
+3. Menopause- Negative

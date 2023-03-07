@@ -1,0 +1,18 @@
+Patient Personal Details
+Patient Name:  Gurnaaz Shah
+Age: 36 years old
+Gender:  Female
+
+Current Levels
+Blood Pressure: 110/90 mg
+Blood Sugar Fasting: 120 mg/dL
+Blood Sugar Post Food: 200 mg/dL
+Triglycerides: 175 mg/dL
+
+Accepted Levels
+Blood Pressure: 120/80
+Blood Sugar Fasting: 70-100 mg/dL
+Blood Sugar Post Food: Below 140 mg/dL
+Triglycerides: Below 150 mg/dL
+
+At Risk

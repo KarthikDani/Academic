@@ -1,0 +1,7 @@
+﻿Patient Name: Sheela Mathur
+Age: 25 years old
+Gender: Female 
+
+Blood Sugar:
+1. Fasting- 70mg/dL
+2. Post food- 120 mg/dL

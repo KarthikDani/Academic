@@ -1,0 +1,7 @@
+﻿Patient Name: Sheela Mathur
+Age: 25 years old
+Gender: Female 
+
+
+Blood Pressure: 120/70 mg
+Triglycerides: 127 mg/dL

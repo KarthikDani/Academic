@@ -1,0 +1,17 @@
+﻿Patient Name: Arun Shetty
+Age: 33 years old
+Gender: Female
+
+Blood Pressure:  25/70 mg
+Blood Sugar: 
+1. Fasting: 80 mg/dL
+2. Post food: 180 mg/dL
+Triglycerides: 150 mg/dL
+
+
+
+
+To be changed:
+1. Patient age- 43
+2. Patient gender- Male
+3. Blood Pressure- 125/70 mg

@@ -1,0 +1,10 @@
+﻿Patient Name: Gurnaaz Shah
+Age: 36 years old
+Gender: Female
+
+
+Blood Pressure: 110/90mg
+Blood Sugar:
+1. Fasting: 120 mg/dL
+2. Post food: 200 mg/dL
+Triglycerides: 175 mg/dL
